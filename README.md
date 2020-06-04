@@ -19,9 +19,9 @@ Currently this have tools given below:
 - [x] Neofetch
 - [x] Net-tools
 - [x] Wine
+- [x] localstack
 
 Developers who are interested in contributing to the above list are pleased to add their contibution to the above list also for the instant reading for the users.
-
 
 ```
 This tool is only tested with Ubuntu 18.04
