@@ -35,7 +35,5 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 
 # install current nodejs version
 nvm install node
-=======
-#Node js installation
-sudo apt install nodejs npm
+
 
