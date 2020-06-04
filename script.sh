@@ -24,3 +24,6 @@ sudo apt install wine
 # install the following library and try again
 # sudo apt install libsasl2-dev
 pip3 install "localstack[full]"
+
+# postman (For API Development)
+sudo snap install postman
