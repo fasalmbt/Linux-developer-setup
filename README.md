@@ -20,7 +20,7 @@ Currently this have tools given below:
 - [x] Net-tools
 - [x] Wine
 - [x] localstack
-- [x] postman
+- [x] postman / Insomnia
 
 Developers who are interested in contributing to the above list are pleased to add their contibution to the above list also for the instant reading for the users.
 
