@@ -30,6 +30,10 @@ pip3 install "localstack[full]"
 # postman (For API Development)
 sudo snap install postman
 
-#Node js installation
-sudo apt install nodejs npm
+#nvm for nodejs
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+
+# install current nodejs version
+nvm install node
+
 
