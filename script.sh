@@ -1,5 +1,4 @@
 #install tools for developers in ubuntu with single script
-#original credits - @fasalmbt
 
 #install vscode
 sudo snap install code --classic
