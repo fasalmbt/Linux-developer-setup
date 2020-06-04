@@ -21,11 +21,13 @@ Currently this have tools given below:
 - [x] Wine
 - [x] localstack
 - [x] postman / Insomnia
+- [x] Node js
+- [x] npm
 
 Developers who are interested in contributing to the above list are pleased to add their contibution to the above list also for the instant reading for the users.
 
 ```
-This tool is only tested with Ubuntu 18.04
+This tool is tested with Ubuntu
 ```
 
 ☮️
