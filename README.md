@@ -1,6 +1,6 @@
-# Linux developer setup
+# Ubuntu developer setup
 
-This repository consists of setup tools for linux developer environment. Anyone seeing this repository can fork this repo and contribute to this repository with your own known developer tools. This repository is made by just intenting to make a contribution towards the github developer community.
+This repository consists of setup tools for ubuntu developer environment. Anyone seeing this repository can fork this repo and contribute to this repository with your own known developer tools. This repository is made by just intenting to make a contribution towards the github developer community.
 
 Currently this have tools given below:
 
