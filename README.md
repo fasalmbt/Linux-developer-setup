@@ -22,6 +22,7 @@ Currently this have tools given below:
 - [x] localstack
 - [x] postman / Insomnia
 - [x] Node js
+- [x] npm
 
 Developers who are interested in contributing to the above list are pleased to add their contibution to the above list also for the instant reading for the users.
 
