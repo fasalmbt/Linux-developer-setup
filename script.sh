@@ -16,7 +16,7 @@ sudo apt install vim git python python-pip python-dev nano
 sudo apt install apktool nmap lynis
 
 #install daily need things
-sudo apt install virtualbox-qt tree neofetch net-tools
+sudo apt install virtualbox-qt tree neofetch net-tools sysstat
 
 #run windows programs in Ubuntu
 sudo apt install wine
