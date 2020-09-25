@@ -17,6 +17,7 @@ Currently this have tools given below:
 - [x] Virtualbox
 - [x] tree
 - [x] Neofetch
+- [x] Sysstat
 - [x] Net-tools
 - [x] Wine
 - [x] localstack
