@@ -13,6 +13,8 @@ Currently this have tools given below:
 - [x] Nano
 - [x] Apktool
 - [x] Nmap
+- [x] Gobuster
+- [x] Sqlmap
 - [x] Lynis
 - [x] Virtualbox
 - [x] tree

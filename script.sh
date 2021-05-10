@@ -15,6 +15,9 @@ sudo apt install vim git python python-pip python-dev nano
 #security auditing
 sudo apt install apktool nmap lynis
 
+#security testing
+sudo apt install gobuster sqlmap 
+
 #install daily need things
 sudo apt install virtualbox-qt tree neofetch net-tools sysstat
 
