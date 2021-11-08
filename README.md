@@ -27,5 +27,3 @@ Developers who are interested in contributing to the above list are pleased to a
 ```
 This tool is tested with Ubuntu
 ```
-
-☮️
