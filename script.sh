@@ -1,22 +1,13 @@
 #install tools for developers in ubuntu with single script
 
 #Before any installation just do
-sudo apt install update && sudo apt install upgrade
+sudo apt update && sudo apt upgrade
 
 #install vscode
 sudo snap install code --classic
 
 #install android studio
 sudo snap install android-studio --classic
-
-#install normal tools for development and testing
-sudo apt install vim git python python-pip python-dev nano
-
-#security auditing
-sudo apt install apktool nmap lynis
-
-#security testing
-sudo apt install gobuster sqlmap 
 
 #install daily need things
 sudo apt install virtualbox-qt tree neofetch net-tools sysstat
